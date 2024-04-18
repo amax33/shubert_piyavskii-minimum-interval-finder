@@ -1,0 +1,1 @@
+# shubert_piyavskii-minimum-interval-finder
